@@ -1,0 +1,32 @@
+@charset "UTF-8"
+
+  ;body { 
+  font-family:"Arial", "Meiryo", sans-serif; 
+  font-family:'Josefin Sans', sans-serif; 
+  font-size: 20px;
+  text-align: center;
+}
+
+
+h1{font-size: 40px;
+  letter-spacing: 1.2em;
+  text-shadow: 6px 6px 8px gray;
+}
+
+
+.decoration {
+  text-decoration: underline;
+  color: rgb(115, 115, 114);
+  }
+  
+
+.text{color: #a0d8ef;}
+
+.text2{color: rgb(255, 192, 203);}
+
+
+.first{color: rgb(255, 192, 203);}
+
+.second{color: #a0d8ef;}
+
+#child > p {font-weight: bold;}
